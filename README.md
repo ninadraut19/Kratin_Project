@@ -1,1 +1,2 @@
 # Kratin_Project
+This code demonstrates a simplified version of the medication management system in Java. It includes classes for Medication and MedicationReminder, where medications can be added and reminders can be set for each medication. The reminders will print a message indicating the medication name and dosage. The MedicationManagementDemo class demonstrates how to use the MedicationReminder class by adding medications, setting reminders, and stopping reminders after a specified time.
